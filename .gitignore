@@ -1,0 +1,6 @@
+# Folders
+models/classifiers/
+models/word2vec/
+
+# Files
+.DS_Store

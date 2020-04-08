@@ -1,0 +1,3000 @@
+Extra whitespaces in java
+https://stackoverflow.com/questions/29190523
+
+I want to mock a proprietary class that extends InputStream, mock read, verify close
+https://stackoverflow.com/questions/29177492
+
+Spring JPA: How to get dependencies right with injection?
+https://stackoverflow.com/questions/29005024
+
+Java: Number Guessing Game
+https://stackoverflow.com/questions/47523003
+
+PHPRunner: email array , can't personalize message
+https://stackoverflow.com/questions/29242878
+
+my voting system is already fine but
+https://stackoverflow.com/questions/29101334
+
+How to get a file name from response header from HttpURLConnection?
+https://stackoverflow.com/questions/29465964
+
+Java HashSet Implementation design
+https://stackoverflow.com/questions/29309570
+
+Marking the Initial State of this Finite Automaton
+https://stackoverflow.com/questions/1871437
+
+logging using Log4j
+https://stackoverflow.com/questions/1686878
+
+static variable initialization java
+https://stackoverflow.com/questions/1642374
+
+Substitute statements in code with loops in Java
+https://stackoverflow.com/questions/28800914
+
+Substitute statements in code with loops in Java
+https://stackoverflow.com/questions/28800968
+
+Substitute statements in code with loops in Java
+https://stackoverflow.com/questions/28800973
+
+Inject Stateless (Webservice)Bean into another Bean
+https://stackoverflow.com/questions/28873315
+
+Unable to stretch zero rectange in Piccolo2D?
+https://stackoverflow.com/questions/28426785
+
+Admob Banner on Top of layout
+https://stackoverflow.com/questions/28288514
+
+Java Palindrome program (1 error)
+https://stackoverflow.com/questions/50591531
+
+Java Palindrome program (1 error)
+https://stackoverflow.com/questions/28401905
+
+Android fragment http response
+https://stackoverflow.com/questions/21046756
+
+How to set Adapter for listview with image in Android
+https://stackoverflow.com/questions/29876305
+
+Can wait() and notify() exist together in same synchronized method in JAVA?
+https://stackoverflow.com/questions/29721381
+
+Need a code-generation tool for entities' DAO's
+https://stackoverflow.com/questions/7728351
+
+execute a java program through batch script
+https://stackoverflow.com/questions/7359282
+
+Get requested value(URL) when using @RequestMapping annotations
+https://stackoverflow.com/questions/47530091
+
+Geocoder initialization fails
+https://stackoverflow.com/questions/26117288
+
+Do Synchronized Methods run on a different thread from the UI thread (Android)?
+https://stackoverflow.com/questions/15496241
+
+Primefaces wizard. How to return js function tab for onnext
+https://stackoverflow.com/questions/14774320
+
+Use of thread to interrupt a recursive function inside a jFrame class
+https://stackoverflow.com/questions/14792276
+
+JSon schema and Inheritance
+https://stackoverflow.com/questions/45388533
+
+Slower android when not connected to charger?
+https://stackoverflow.com/questions/27080506
+
+Make the entire row bold using Apache POI
+https://stackoverflow.com/questions/25437662
+
+Make the entire row bold using Apache POI
+https://stackoverflow.com/questions/41534207
+
+Basic Java - Can one inner (nested?) class access another?
+https://stackoverflow.com/questions/11661611
+
+Java time expiring List/Set?
+https://stackoverflow.com/questions/55504620
+
+Count multiple login and logout session
+https://stackoverflow.com/questions/21786355
+
+Delete item from database ListView
+https://stackoverflow.com/questions/21960448
+
+Manipulating Java string containing math operands
+https://stackoverflow.com/questions/24117808
+
+How to pass POST Form Data from HTML to Java Rest Api
+https://stackoverflow.com/questions/30636422
+
+Adding a sentence word by word into a set using Recursion
+https://stackoverflow.com/questions/30473630
+
+Adding a sentence word by word into a set using Recursion
+https://stackoverflow.com/questions/30473633
+
+Adding a sentence word by word into a set using Recursion
+https://stackoverflow.com/questions/30473612
+
+Why is my ArrayList length 0 in my mouseClicked() function?
+https://stackoverflow.com/questions/9612902
+
+Convert java.awt.Image to TIFF byte array with compression
+https://stackoverflow.com/questions/9609547
+
+Java: AWT Label not showing up
+https://stackoverflow.com/questions/9539078
+
+How to read OS X *.icns file with Java
+https://stackoverflow.com/questions/10805896
+
+How to retrieve a list of deprecated methods from a class
+https://stackoverflow.com/questions/629581
+
+Is it possible to remove the "Class<T>" parameter from this Java method?
+https://stackoverflow.com/questions/606001
+
+tabs are not swiping in android
+https://stackoverflow.com/questions/24651913
+
+tabs are not swiping in android
+https://stackoverflow.com/questions/24610756
+
+Having some trouble using a Linked List and passing elements to the Node
+https://stackoverflow.com/questions/24669769
+
+Nesting of timers
+https://stackoverflow.com/questions/14331706
+
+First launch and after update alert android
+https://stackoverflow.com/questions/14090149
+
+Java: How do I check the if a char at the nth position of a string is a letter or if is a number?
+https://stackoverflow.com/questions/14212390
+
+Java: How do I check the if a char at the nth position of a string is a letter or if is a number?
+https://stackoverflow.com/questions/14212559
+
+Java: How do I check the if a char at the nth position of a string is a letter or if is a number?
+https://stackoverflow.com/questions/14212496
+
+create array of objects which have constructor function
+https://stackoverflow.com/questions/23889832
+
+create array of objects which have constructor function
+https://stackoverflow.com/questions/23889849
+
+Genson library in jersey webservices to deserialize data
+https://stackoverflow.com/questions/23955163
+
+JFreeChart + JRuby - fill area between two points on domain axis
+https://stackoverflow.com/questions/2336895
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/6174594
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/2435578
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/24841652
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/14434283
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/2437845
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/2437936
+
+Java - Removing duplicates in an ArrayList
+https://stackoverflow.com/questions/2435538
+
+How do I run JUnit tests from inside my java application?
+https://stackoverflow.com/questions/49776577
+
+How to convert Array to HashMap using Java 8 Stream
+https://stackoverflow.com/questions/54317238
+
+How to convert Array to HashMap using Java 8 Stream
+https://stackoverflow.com/questions/41956412
+
+How to convert Array to HashMap using Java 8 Stream
+https://stackoverflow.com/questions/41946663
+
+How to convert Array to HashMap using Java 8 Stream
+https://stackoverflow.com/questions/41946690
+
+How to convert Array to HashMap using Java 8 Stream
+https://stackoverflow.com/questions/41946744
+
+How to read an HTTP response from a server (as a web proxy) and send response to client
+https://stackoverflow.com/questions/42035633
+
+Retrieve KEYWORDS from META tag in a HTML WebPage using JAVA
+https://stackoverflow.com/questions/5098589
+
+How to cancel a System.Exit and Restart the application in Java
+https://stackoverflow.com/questions/23310771
+
+Query with JOIN FETCH performance problem
+https://stackoverflow.com/questions/46195991
+
+Append Marshalled Object Into XML File Using JAXB
+https://stackoverflow.com/questions/26179833
+
+Getting int value from combo box in Java
+https://stackoverflow.com/questions/8614427
+
+spring data and mongodb with @Query annotation for an array
+https://stackoverflow.com/questions/33540150
+
+static method in class have same signature as default method in interface
+https://stackoverflow.com/questions/45608568
+
+Remove whole line by character index
+https://stackoverflow.com/questions/45661432
+
+Remove whole line by character index
+https://stackoverflow.com/questions/45661480
+
+have trouble with my 2d android game
+https://stackoverflow.com/questions/37763398
+
+How to set up a DataSource for TomEE+
+https://stackoverflow.com/questions/37836459
+
+Java parameterized constructors
+https://stackoverflow.com/questions/37803688
+
+Java parameterized constructors
+https://stackoverflow.com/questions/37803479
+
+Convert Java/C++ code base to an IDE based project
+https://stackoverflow.com/questions/38730896
+
+How to traverse through all possible paths to a solution and pick the optimum path
+https://stackoverflow.com/questions/38881342
+
+How to traverse through all possible paths to a solution and pick the optimum path
+https://stackoverflow.com/questions/38869521
+
+How to limit multiple image selection from the gallery?
+https://stackoverflow.com/questions/54145585
+
+Kotlin, Reactive programming : How to consume the value of one function output to another one
+https://stackoverflow.com/questions/54003775
+
+Adding a Huge Dataset into Oracle Database
+https://stackoverflow.com/questions/26767895
+
+Can Java use user defined object as an index of 2D array key?
+https://stackoverflow.com/questions/35679537
+
+How can I replace Key Value with value keys of a Map
+https://stackoverflow.com/questions/18372220
+
+Decisions and if method
+https://stackoverflow.com/questions/18425769
+
+Decisions and if method
+https://stackoverflow.com/questions/18425517
+
+Decisions and if method
+https://stackoverflow.com/questions/18425638
+
+Sorting a List of Objects based o absolute difference of an Object's field and a given value. (Java)
+https://stackoverflow.com/questions/54879256
+
+Java SAXException: No deserializer for
+https://stackoverflow.com/questions/33902948
+
+Avoid primitive data types default value in json mapping using GSON
+https://stackoverflow.com/questions/53420504
+
+Avoid primitive data types default value in json mapping using GSON
+https://stackoverflow.com/questions/31239480
+
+How can I store and load an encrypted value using custom annotation
+https://stackoverflow.com/questions/36459442
+
+Character index to and from byte index
+https://stackoverflow.com/questions/27651803
+
+Spring Boot @ResponseBody Jackson - escape all String fields
+https://stackoverflow.com/questions/55741351
+
+Correct way of attaching progress listeners to the objects in the list
+https://stackoverflow.com/questions/36666747
+
+Designing API to start and stop a process with Jersey
+https://stackoverflow.com/questions/36618166
+
+Designing API to start and stop a process with Jersey
+https://stackoverflow.com/questions/36600251
+
+Print elements of a matrix in diagonal stripes
+https://stackoverflow.com/questions/36623420
+
+Print elements of a matrix in diagonal stripes
+https://stackoverflow.com/questions/36622232
+
+Print elements of a matrix in diagonal stripes
+https://stackoverflow.com/questions/36623115
+
+Criteria ORDER BY date not working?
+https://stackoverflow.com/questions/40589402
+
+Criteria ORDER BY date not working?
+https://stackoverflow.com/questions/49988281
+
+Java 8 streams and simple types
+https://stackoverflow.com/questions/36769952
+
+How to enable button from otherJFrame after disabeling it in Main JFrame?
+https://stackoverflow.com/questions/36980770
+
+How to export repeat grid layout data to Excel using pzRDExportWrapper in Pega 7.1.8?
+https://stackoverflow.com/questions/46304345
+
+Finding all Points inside a rectangle?
+https://stackoverflow.com/questions/43395424
+
+Spring - How can I add a header to ALL responses that I return?
+https://stackoverflow.com/questions/43482169
+
+Spring - How can I add a header to ALL responses that I return?
+https://stackoverflow.com/questions/45357760
+
+Spring - How can I add a header to ALL responses that I return?
+https://stackoverflow.com/questions/43530185
+
+How to implement a Gson equivalent of @JsonUnwrap
+https://stackoverflow.com/questions/43300684
+
+Fast Static Persisted Hash Table
+https://stackoverflow.com/questions/11405983
+
+Binding XML with JAXB annotations
+https://stackoverflow.com/questions/11494487
+
+How to plot a CCDF gragh?
+https://stackoverflow.com/questions/20391829
+
+Scanner.next() and Scanner.nextLine()
+https://stackoverflow.com/questions/20189957
+
+How to enable SSL in Jboss 5.1.0
+https://stackoverflow.com/questions/21323441
+
+different output according to radio button selection
+https://stackoverflow.com/questions/20291527
+
+How to simply animate views in android
+https://stackoverflow.com/questions/25701696
+
+how to get the array output from a js function in java 8?
+https://stackoverflow.com/questions/25644672
+
+adding and subtracting strings in Java
+https://stackoverflow.com/questions/42417263
+
+Processbuilder output as it is executing
+https://stackoverflow.com/questions/50848705
+
+Error: error class interface or enum expected in Java class
+https://stackoverflow.com/questions/33580069
+
+Removing one object from multiple ArrayLists
+https://stackoverflow.com/questions/33683016
+
+How can I loosen up the naming strategy when deserializing using Jackson?
+https://stackoverflow.com/questions/33863585
+
+Subtracting multiple numbers
+https://stackoverflow.com/questions/33574043
+
+Subtracting multiple numbers
+https://stackoverflow.com/questions/33574417
+
+Getting exception while converting the dates in Java
+https://stackoverflow.com/questions/19995676
+
+Getting exception while converting the dates in Java
+https://stackoverflow.com/questions/19994576
+
+Trouble sorting through an Object array
+https://stackoverflow.com/questions/20103226
+
+Entering an If statement with a hashmap conditions
+https://stackoverflow.com/questions/19901699
+
+Java web service only responds on localhost, not by hostname (Apache Tika)
+https://stackoverflow.com/questions/21884380
+
+JTable sorting programmatically only
+https://stackoverflow.com/questions/19997022
+
+Parallel Stream behaving differently to Stream
+https://stackoverflow.com/questions/51724991
+
+Control of sprite not completely working
+https://stackoverflow.com/questions/12168705
+
+Executing Oracle Functions using Spring jdbc
+https://stackoverflow.com/questions/12389275
+
+Need help configuring MongoDB on Spring/Maven
+https://stackoverflow.com/questions/34220230
+
+Calculate the Factorial of userinput
+https://stackoverflow.com/questions/40237981
+
+I am not able to get expected output from run time exec
+https://stackoverflow.com/questions/40252968
+
+Faster detection of interrupted connections during PUT operation with Apache 'HttpClient'
+https://stackoverflow.com/questions/25492364
+
+Application Failure Detected in android
+https://stackoverflow.com/questions/25147428
+
+Guice - inject multiple data sources
+https://stackoverflow.com/questions/25185823
+
+Generate unique Ids during registration
+https://stackoverflow.com/questions/25190598
+
+What is the difference between these two declaration of anonymous class
+https://stackoverflow.com/questions/33321600
+
+allow only chars as user input and assign them to variables?
+https://stackoverflow.com/questions/33416253
+
+allow only chars as user input and assign them to variables?
+https://stackoverflow.com/questions/33415828
+
+Getting match of Group with Asterisk?
+https://stackoverflow.com/questions/25858393
+
+play framework- how to send post request using java code in play framework
+https://stackoverflow.com/questions/25838176
+
+Why does recursion act differently for different placements of recursive call
+https://stackoverflow.com/questions/18671522
+
+Why does recursion act differently for different placements of recursive call
+https://stackoverflow.com/questions/18670694
+
+Faster batch loading of nested data
+https://stackoverflow.com/questions/18708471
+
+How do i sort a 2d String array in ascending order?
+https://stackoverflow.com/questions/33967604
+
+How do i sort a 2d String array in ascending order?
+https://stackoverflow.com/questions/33968307
+
+Is there anyway to use a superclass in Jaxb?
+https://stackoverflow.com/questions/19848646
+
+How to create new excel document in java
+https://stackoverflow.com/questions/19700477
+
+How to create new excel document in java
+https://stackoverflow.com/questions/19700590
+
+Expand on this autoboxing explanation
+https://stackoverflow.com/questions/18248751
+
+Redirect from http to https in Spring Boot 2.0.4
+https://stackoverflow.com/questions/53911273
+
+Spring Boot doesn't read the default value from the application.properties file
+https://stackoverflow.com/questions/53855025
+
+Java 8 Date equivalent to Joda's DateTimeFormatterBuilder with multiple parser formats?
+https://stackoverflow.com/questions/54199740
+
+Java 8 Date equivalent to Joda's DateTimeFormatterBuilder with multiple parser formats?
+https://stackoverflow.com/questions/54224752
+
+Java 8 Date equivalent to Joda's DateTimeFormatterBuilder with multiple parser formats?
+https://stackoverflow.com/questions/36188654
+
+Variable outside of for loop being changed?
+https://stackoverflow.com/questions/36074675
+
+Android Camera - Attempt to read from field 'int android.hardware.Camera$Size.width' on a null object reference
+https://stackoverflow.com/questions/34332923
+
+How can I Serialize/De-serialize a Boolean Value from FasterXML\Jackson as an Int?
+https://stackoverflow.com/questions/35373444
+
+Calling standard application from web application
+https://stackoverflow.com/questions/34257457
+
+To change the X-axis starting value of graph in Jfreechart
+https://stackoverflow.com/questions/21074065
+
+Android Studio Button to clear TextView text
+https://stackoverflow.com/questions/46758388
+
+Android Studio Button to clear TextView text
+https://stackoverflow.com/questions/46758448
+
+Android Studio Button to clear TextView text
+https://stackoverflow.com/questions/46758776
+
+how to stop constructor from over riding in inheritance in java in derived class trying to use private but not working
+https://stackoverflow.com/questions/46823944
+
+how to stop constructor from over riding in inheritance in java in derived class trying to use private but not working
+https://stackoverflow.com/questions/46824221
+
+Finding middle of user input (int) and increasing/decreasing half of the values in JAVA
+https://stackoverflow.com/questions/46921670
+
+Broken Logic? - ascending and descending order of letters
+https://stackoverflow.com/questions/48046849
+
+Firebase reflect changes directly from database?
+https://stackoverflow.com/questions/48047893
+
+Progress bar not showing up till last moment
+https://stackoverflow.com/questions/49474765
+
+Proper way of getting variable from another class
+https://stackoverflow.com/questions/9213192
+
+How to Autowire in Junit Tests (General Newb Enquiry)
+https://stackoverflow.com/questions/22974630
+
+Trim whitespace and Ignore Hash sign in Solr
+https://stackoverflow.com/questions/37932034
+
+Saving ArrayList to Text File
+https://stackoverflow.com/questions/38045710
+
+Saving ArrayList to Text File
+https://stackoverflow.com/questions/38045676
+
+Equality of rows between 2 matrices
+https://stackoverflow.com/questions/51407856
+
+Same volley class multiple time for API requests?
+https://stackoverflow.com/questions/51345564
+
+Java Class for obtaining corresponding Gson json object
+https://stackoverflow.com/questions/30828421
+
+Replace Brackets on Array
+https://stackoverflow.com/questions/30729775
+
+How do you sort lines that are numbered? Java
+https://stackoverflow.com/questions/39683057
+
+Spring Boot deployment - NoClassDefFoundError
+https://stackoverflow.com/questions/33166669
+
+Determine if char value is in range of chars
+https://stackoverflow.com/questions/33044727
+
+how to set up an background image on the panel in java such that my buttons are clearly visible?
+https://stackoverflow.com/questions/19275959
+
+Why is my program crashing (java)?
+https://stackoverflow.com/questions/19131198
+
+Why is my program crashing (java)?
+https://stackoverflow.com/questions/19131234
+
+How to get a maven reporting plugin to generate report with the doxia API?
+https://stackoverflow.com/questions/11333241
+
+Add an object to an ArrayList and modify it later
+https://stackoverflow.com/questions/7080578
+
+Add an object to an ArrayList and modify it later
+https://stackoverflow.com/questions/27969726
+
+Pagination is not working
+https://stackoverflow.com/questions/3403245
+
+Make Main Method restart/refresh
+https://stackoverflow.com/questions/16441949
+
+How to share code documentation for a project?
+https://stackoverflow.com/questions/16589186
+
+Android - Java - Access private variable in Main-Activity from another instanced class
+https://stackoverflow.com/questions/5782743
+
+How do I make my program not close until instructed [Distance Conversion]
+https://stackoverflow.com/questions/21294478
+
+Java: Avoiding StringBuilder.toString() to create new String by using custom class
+https://stackoverflow.com/questions/21309519
+
+How can I change a JButton Color upon keyTyped event?
+https://stackoverflow.com/questions/20444556
+
+Show that a parameter of a method serves as return value
+https://stackoverflow.com/questions/20539226
+
+JSCH: SFTP. Hangs at session.connect() using the port 21
+https://stackoverflow.com/questions/36693526
+
+How to deserialize an object with GSON where data doesn't have a member/parameter name?
+https://stackoverflow.com/questions/50318137
+
+How Spring Boot JPA(Hibernate) saves Images
+https://stackoverflow.com/questions/50364907
+
+Travis Java build using different SDK for compilation and tests
+https://stackoverflow.com/questions/50292529
+
+startForegroundService() did not call startForeground(), but it did
+https://stackoverflow.com/questions/50399327
+
+Are there any 'tricks' to speed up sampling of a very large knapsack combination type prob?
+https://stackoverflow.com/questions/10612601
+
+Get XML only immediate children elements by name
+https://stackoverflow.com/questions/10690544
+
+Get XML only immediate children elements by name
+https://stackoverflow.com/questions/18090442
+
+Get XML only immediate children elements by name
+https://stackoverflow.com/questions/10690187
+
+Get XML only immediate children elements by name
+https://stackoverflow.com/questions/40248306
+
+Inconsistent behavior on java's for-each
+https://stackoverflow.com/questions/1174060
+
+Java - Generic ChangeListener
+https://stackoverflow.com/questions/1064327
+
+How do i set the value to be integer?
+https://stackoverflow.com/questions/28192430
+
+bad parentActivityName in manifest
+https://stackoverflow.com/questions/50634209
+
+How can I reliably simulate touch events on Android without root (like Automate and Tasker)?
+https://stackoverflow.com/questions/51706446
+
+Problem overriding ArrayList add method
+https://stackoverflow.com/questions/54914031
+
+Can I calculate an element without looping through all preceeding elements in my case (see the question body)?
+https://stackoverflow.com/questions/4088252
+
+Simple Key Listeners
+https://stackoverflow.com/questions/21595360
+
+How to get Jframe to work with mouse clicks?
+https://stackoverflow.com/questions/21501938
+
+JPA count related entities without joining them
+https://stackoverflow.com/questions/32522297
+
+Code for Spring batch reading from REST api and writing multiple records for one read to a single DB table using JdbcBatchItemWriter
+https://stackoverflow.com/questions/50233780
+
+I seem to be doing everything right for my simple counter program, but nothing happens when i run the program on the command line
+https://stackoverflow.com/questions/50165150
+
+Setting the JRE of java eclipse project in plugin programmatically
+https://stackoverflow.com/questions/22807209
+
+java google custom search api
+https://stackoverflow.com/questions/10846982
+
+java google custom search api
+https://stackoverflow.com/questions/8386498
+
+Static field initialization sequence in a class
+https://stackoverflow.com/questions/50459049
+
+Iterate over two TreeMap at the same time in Java
+https://stackoverflow.com/questions/29674071
+
+Sendmail.php webform sending blank emails
+https://stackoverflow.com/questions/29673374
+
+Regular Expression to identify Cobol EVALUATE block with JAVA
+https://stackoverflow.com/questions/9678240
+
+Populating ListView from Cursor
+https://stackoverflow.com/questions/7289026
+
+How crop some region of image in Java?
+https://stackoverflow.com/questions/5186636
+
+Parsing Apache Tika XML Output returns Unknown Tag
+https://stackoverflow.com/questions/33906214
+
+Can I deploy files on google cloud storage using gradle?
+https://stackoverflow.com/questions/34990223
+
+Question about Elasticsearch schema and query
+https://stackoverflow.com/questions/55913509
+
+Unable to add ArrayList with multiple arguments
+https://stackoverflow.com/questions/56022734
+
+Finding Deci-Binary for given input
+https://stackoverflow.com/questions/55916238
+
+Getting Whitepage error, cant find my issue in REST API?
+https://stackoverflow.com/questions/55461330
+
+How to make a jar file out of Google Appengine Java Project
+https://stackoverflow.com/questions/37587680
+
+Java: How to create synchronized block and that subclasses use
+https://stackoverflow.com/questions/13013549
+
+Java: How to create synchronized block and that subclasses use
+https://stackoverflow.com/questions/13013559
+
+How to read this JSON as an object? Gson
+https://stackoverflow.com/questions/26442671
+
+Finding the right place and storing in LinkedList
+https://stackoverflow.com/questions/26431884
+
+Finding the right place and storing in LinkedList
+https://stackoverflow.com/questions/26434081
+
+Using ACL with Curator
+https://stackoverflow.com/questions/40541940
+
+Creating mongodb database user in Java using spring data mongodb
+https://stackoverflow.com/questions/40367315
+
+Spring Boot can not setup cache
+https://stackoverflow.com/questions/47581478
+
+Installing ant; clearly misunderstanding JAVA_HOME
+https://stackoverflow.com/questions/2582099
+
+Compound Primary Key in Hibernate using Annotations
+https://stackoverflow.com/questions/2885105
+
+Algorithm for data alignment of float arrays in Java
+https://stackoverflow.com/questions/2867704
+
+Compilation error: casting
+https://stackoverflow.com/questions/2756905
+
+Reading bytes from a file?
+https://stackoverflow.com/questions/17143257
+
+Reading bytes from a file?
+https://stackoverflow.com/questions/17140921
+
+How I can deactivate the SSL verification?
+https://stackoverflow.com/questions/17066736
+
+Can we have more than one @Path annotation for same REST method
+https://stackoverflow.com/questions/17002237
+
+Method to do compare and change single characters in a string
+https://stackoverflow.com/questions/39811620
+
+Method to do compare and change single characters in a string
+https://stackoverflow.com/questions/39811890
+
+Exchange Sort Algorithm query
+https://stackoverflow.com/questions/14042770
+
+Add border to merged cells in excel Apache poi java.?
+https://stackoverflow.com/questions/14284681
+
+Add border to merged cells in excel Apache poi java.?
+https://stackoverflow.com/questions/20746574
+
+Error: class X is public should be declared in a file named X.java
+https://stackoverflow.com/questions/43365089
+
+Final exam review
+https://stackoverflow.com/questions/13903086
+
+Eclipselink static weaving in Java web application - Eclipse
+https://stackoverflow.com/questions/41507015
+
+Random Tic Tac Toe checker issue
+https://stackoverflow.com/questions/41600622
+
+Random Tic Tac Toe checker issue
+https://stackoverflow.com/questions/41600708
+
+Max Double Slice Sum codility O(1) space complexity fail performance test case
+https://stackoverflow.com/questions/30767235
+
+Max Double Slice Sum codility O(1) space complexity fail performance test case
+https://stackoverflow.com/questions/43943732
+
+DispatcherServler does not work
+https://stackoverflow.com/questions/28669548
+
+Replace the opening and closing string, while keeping the enclosed value?
+https://stackoverflow.com/questions/44488823
+
+Count up timer on Android?
+https://stackoverflow.com/questions/39062514
+
+Connection code to database created through phpmyadmin
+https://stackoverflow.com/questions/31112832
+
+Java portlet: how to redirect (server side) to serveResource?
+https://stackoverflow.com/questions/47674738
+
+Write two JSON entries from one Java field
+https://stackoverflow.com/questions/47883457
+
+Restore filename and extension from base64 encoding
+https://stackoverflow.com/questions/48881193
+
+how to read xls file into jtable
+https://stackoverflow.com/questions/51651242
+
+dataSnapshot retrieves last message but having difficulty displaying it on widget......?
+https://stackoverflow.com/questions/51601389
+
+How to mask a value in java?
+https://stackoverflow.com/questions/18015445
+
+How to mask a value in java?
+https://stackoverflow.com/questions/34933145
+
+Is it possible to have a conditional inside a conditional with Java
+https://stackoverflow.com/questions/39500032
+
+Is it possible to have a conditional inside a conditional with Java
+https://stackoverflow.com/questions/39500279
+
+Is it possible to have a conditional inside a conditional with Java
+https://stackoverflow.com/questions/39500126
+
+Test class extending test class in dependency module
+https://stackoverflow.com/questions/1206760
+
+Test class extending test class in dependency module
+https://stackoverflow.com/questions/12299238
+
+Populating TextViews with Parse backend
+https://stackoverflow.com/questions/42280370
+
+Java programs about generics
+https://stackoverflow.com/questions/42300923
+
+Error "Mapping (RESOURCE) not found : HibernateExposed/Person.hbm.xml"
+https://stackoverflow.com/questions/55121856
+
+List gets updated with the latest values inserted to the Object
+https://stackoverflow.com/questions/55054050
+
+Cannot cast from inner class to class
+https://stackoverflow.com/questions/48717975
+
+Volley String Request does'nt give Response in android
+https://stackoverflow.com/questions/48596191
+
+Continues loop, with no loop
+https://stackoverflow.com/questions/18946528
+
+Comparing values in any order
+https://stackoverflow.com/questions/18857215
+
+Comparing values in any order
+https://stackoverflow.com/questions/18857213
+
+Comparing values in any order
+https://stackoverflow.com/questions/18857200
+
+Comparing values in any order
+https://stackoverflow.com/questions/18857131
+
+Cast to generic type (T) gives "unchecked cast" warning
+https://stackoverflow.com/questions/19032544
+
+While Nested Loops
+https://stackoverflow.com/questions/18856279
+
+Determining nested parentheses by recursion(JAVA)
+https://stackoverflow.com/questions/23208854
+
+Determining nested parentheses by recursion(JAVA)
+https://stackoverflow.com/questions/23208598
+
+ConstraintLayout children not properly aligned in parent view
+https://stackoverflow.com/questions/45293357
+
+Replacing text in .docx with a table, using Apache POI (Java)
+https://stackoverflow.com/questions/45177742
+
+Need to reverse an integer array based on the input median
+https://stackoverflow.com/questions/45287037
+
+Spring integration tcp-connection-factory closes client connection before reply
+https://stackoverflow.com/questions/27968340
+
+Add listener to JPanel that will be only called onload
+https://stackoverflow.com/questions/27853026
+
+Add listener to JPanel that will be only called onload
+https://stackoverflow.com/questions/27853163
+
+JTable ComboBox loses value when clicked elsewhere
+https://stackoverflow.com/questions/27963035
+
+Java - Format a date given day, month and year integers
+https://stackoverflow.com/questions/27967256
+
+Android Thread is not ending.It can not start again
+https://stackoverflow.com/questions/27878768
+
+Adding Custom Protocol in Registry Editor for MikroTik Winbox
+https://stackoverflow.com/questions/16854385
+
+java while statement error
+https://stackoverflow.com/questions/16855143
+
+java while statement error
+https://stackoverflow.com/questions/16855925
+
+java while statement error
+https://stackoverflow.com/questions/16870276
+
+java while statement error
+https://stackoverflow.com/questions/16854964
+
+display Enum Values in UI with default value if not selected
+https://stackoverflow.com/questions/47172727
+
+Strategy for multiple subscribers and flow of data using RxJava 2
+https://stackoverflow.com/questions/47136060
+
+How to a convert a single-direction linked list with digits in the data to an int number
+https://stackoverflow.com/questions/35345851
+
+How to determine if there's a run of characters in an array?
+https://stackoverflow.com/questions/35299518
+
+Understanding referencing other classes in java - null pointer exception
+https://stackoverflow.com/questions/22119389
+
+Accessing public object variables
+https://stackoverflow.com/questions/22162229
+
+Search a string in entire workspace using eclipse plugin
+https://stackoverflow.com/questions/22307618
+
+Search a string in entire workspace using eclipse plugin
+https://stackoverflow.com/questions/22153999
+
+Issue With Socket Programming Between Android and Java Program
+https://stackoverflow.com/questions/22112799
+
+Copy remote server directories to local machine
+https://stackoverflow.com/questions/47092693
+
+Generating a Random Location Within a Given Range (that can be positive or negative)
+https://stackoverflow.com/questions/31786673
+
+Generating a Random Location Within a Given Range (that can be positive or negative)
+https://stackoverflow.com/questions/31815770
+
+Plotting d-dimensional data
+https://stackoverflow.com/questions/10324292
+
+Java get half month number
+https://stackoverflow.com/questions/10357513
+
+Which collection is better to store data from multi-dimensional array?
+https://stackoverflow.com/questions/10477858
+
+Java: Static Parent/Child variables and methods
+https://stackoverflow.com/questions/48468440
+
+Switching between for loop for array printint. Java
+https://stackoverflow.com/questions/42851396
+
+Android Studio firebase database wait for read before adding new values
+https://stackoverflow.com/questions/42596908
+
+Android Studio firebase database wait for read before adding new values
+https://stackoverflow.com/questions/42596961
+
+Printing twice, not prompted for Scanner input
+https://stackoverflow.com/questions/42744572
+
+How do I print out the first instance of duplicates in an array of randomly generated numbers?
+https://stackoverflow.com/questions/26843720
+
+How do I print out the first instance of duplicates in an array of randomly generated numbers?
+https://stackoverflow.com/questions/26843828
+
+Initialize member of abstract class without subclasses having write access
+https://stackoverflow.com/questions/24841282
+
+How can I print an image on a Bluetooth printer in Android?
+https://stackoverflow.com/questions/42085983
+
+How can I print an image on a Bluetooth printer in Android?
+https://stackoverflow.com/questions/16763145
+
+How can I print an image on a Bluetooth printer in Android?
+https://stackoverflow.com/questions/16814046
+
+How to save Entity with related Null Object with Hibernate
+https://stackoverflow.com/questions/43208643
+
+Join more than two tables using Annotations in Spring Data JPA
+https://stackoverflow.com/questions/49957168
+
+Reading files in a SpringBoot 2.0.1.RELEASE app
+https://stackoverflow.com/questions/49826409
+
+Sorting a Double
+https://stackoverflow.com/questions/49943045
+
+How to find Cursor position in a JTextArea
+https://stackoverflow.com/questions/5890849
+
+sqlite how to add value on conflict
+https://stackoverflow.com/questions/17501684
+
+Edit row and validate
+https://stackoverflow.com/questions/17384449
+
+How to add to a wildcard Collection<?>?
+https://stackoverflow.com/questions/17283511
+
+Extension API internal error: org.powermock.api.extension.reporter.MockingFrameworkReporterFactoryImpl
+https://stackoverflow.com/questions/50535799
+
+Error in sending mail through smtps
+https://stackoverflow.com/questions/4457838
+
+can I copy an array to a hash table?
+https://stackoverflow.com/questions/4228836
+
+Key hash for Facebook Android SDK
+https://stackoverflow.com/questions/11316305
+
+Key hash for Facebook Android SDK
+https://stackoverflow.com/questions/22587767
+
+Key hash for Facebook Android SDK
+https://stackoverflow.com/questions/31288511
+
+Code Design: JSON from Socket to custom handler class
+https://stackoverflow.com/questions/42557920
+
+Liquibase check table name length before executing changset
+https://stackoverflow.com/questions/42412657
+
+Java function for 2 a bit different objects
+https://stackoverflow.com/questions/42363898
+
+Java function for 2 a bit different objects
+https://stackoverflow.com/questions/42363837
+
+Deleting multiple row
+https://stackoverflow.com/questions/42511259
+
+copy element of array
+https://stackoverflow.com/questions/15851844
+
+Closing Java Frame
+https://stackoverflow.com/questions/15750669
+
+GWT: SuggestionBox as a global variable
+https://stackoverflow.com/questions/15698802
+
+How to show percentage progress of a downloading file in java console(without UI)?
+https://stackoverflow.com/questions/42879684
+
+How to show percentage progress of a downloading file in java console(without UI)?
+https://stackoverflow.com/questions/15846788
+
+Running script files and use of Css files with Spring MVC?
+https://stackoverflow.com/questions/15834419
+
+java write netstat in cmd
+https://stackoverflow.com/questions/15773908
+
+java write netstat in cmd
+https://stackoverflow.com/questions/49762857
+
+java.lang.NoClassDefFoundError: org/springframework/core/env/ConfigurableEnvironment
+https://stackoverflow.com/questions/39246493
+
+Consolidating Two "OnActivityResult" Methods
+https://stackoverflow.com/questions/35824157
+
+Initializing an Array - Public Static int[]
+https://stackoverflow.com/questions/35905518
+
+how to store multiple string into single string and how to make key for the particular string
+https://stackoverflow.com/questions/36010316
+
+Dynamic Swing Refresh on JLabel
+https://stackoverflow.com/questions/32721839
+
+java example for sending avro/bytes POST request to server
+https://stackoverflow.com/questions/23720049
+
+Null Pointer Error: Can't Find Declaration Cause
+https://stackoverflow.com/questions/23572532
+
+Approaches to Android MediaPlayer state mismatch error on isPlaying()?
+https://stackoverflow.com/questions/32322620
+
+Different value of JNDI parameter for different standalone instances in GlassFish
+https://stackoverflow.com/questions/39272565
+
+JavaFx TableView - saving edits on focus lost doesn't work if focus is given to same column
+https://stackoverflow.com/questions/37661883
+
+JavaFx TableView - saving edits on focus lost doesn't work if focus is given to same column
+https://stackoverflow.com/questions/37661425
+
+Replacing comma with any special character in string using java Regex
+https://stackoverflow.com/questions/18259270
+
+Replacing comma with any special character in string using java Regex
+https://stackoverflow.com/questions/18260393
+
+Java - Check if a port is in use without connecting to it
+https://stackoverflow.com/questions/18284039
+
+How utilize user input later in another method
+https://stackoverflow.com/questions/47338059
+
+Change DB design to improve Spring Data JPA soft delete and authentication on queries
+https://stackoverflow.com/questions/47259549
+
+Change DB design to improve Spring Data JPA soft delete and authentication on queries
+https://stackoverflow.com/questions/47340805
+
+Cannot parse date with LocalDateTime
+https://stackoverflow.com/questions/34752013
+
+How to setup AWS Lambda service for a local server
+https://stackoverflow.com/questions/35210922
+
+Shuffling An Array List
+https://stackoverflow.com/questions/34748401
+
+What's the smartest way to manage balloons with the Google Earth plugin?
+https://stackoverflow.com/questions/9248251
+
+Calling scala abstract classes with parameters and inner classes from Java
+https://stackoverflow.com/questions/6232898
+
+Digital signature: sample code for verification and for extracting certification information
+https://stackoverflow.com/questions/6274342
+
+Computing the nth root of p using BigDecimals
+https://stackoverflow.com/questions/34074999
+
+How to make a list of lists of n numbers including x-z numbers
+https://stackoverflow.com/questions/22636003
+
+How to make a list of lists of n numbers including x-z numbers
+https://stackoverflow.com/questions/22631831
+
+Opencv android aplication crashes on new activity
+https://stackoverflow.com/questions/32027251
+
+Android printing arabic using zebra printer imz320 shows as reversed character
+https://stackoverflow.com/questions/38531203
+
+No such file or Directory only in Android 6.0
+https://stackoverflow.com/questions/38411306
+
+No such file or Directory only in Android 6.0
+https://stackoverflow.com/questions/38411277
+
+Thread waiting logic
+https://stackoverflow.com/questions/35560771
+
+Thread waiting logic
+https://stackoverflow.com/questions/35561063
+
+Thread waiting logic
+https://stackoverflow.com/questions/35570329
+
+@OneToMany Map silently deletes Map's keys
+https://stackoverflow.com/questions/15314822
+
+Accessing Text From Custom Component Without Using <cq:text>
+https://stackoverflow.com/questions/18695010
+
+calling derived class method using base class object
+https://stackoverflow.com/questions/15299859
+
+2 questions about formatted text fields
+https://stackoverflow.com/questions/19594243
+
+How to set active Tab by ID?
+https://stackoverflow.com/questions/19422091
+
+How do I get my program to open a window based of user input?
+https://stackoverflow.com/questions/19599737
+
+@GeneratedValue when create a new instance
+https://stackoverflow.com/questions/19379718
+
+How to apply in validator different behaviours for particular methods in spring Controller
+https://stackoverflow.com/questions/19645653
+
+How to apply in validator different behaviours for particular methods in spring Controller
+https://stackoverflow.com/questions/19656397
+
+Resetting values based on time MySQL
+https://stackoverflow.com/questions/34972066
+
+Random boolean 2d-array in Java returning always "false"
+https://stackoverflow.com/questions/35063608
+
+Random boolean 2d-array in Java returning always "false"
+https://stackoverflow.com/questions/35063650
+
+Random boolean 2d-array in Java returning always "false"
+https://stackoverflow.com/questions/35063854
+
+How to use CDATA correctly?
+https://stackoverflow.com/questions/35053411
+
+How to create a map fragment (GoogleMap) inside a Layout created in java?
+https://stackoverflow.com/questions/39441496
+
+How to send graphql query with fragments in Android
+https://stackoverflow.com/questions/35930023
+
+How to setup angular 4 inside a maven based java war project
+https://stackoverflow.com/questions/45943326
+
+Remove Entries in hashmap using composite String key
+https://stackoverflow.com/questions/24487431
+
+Programmatically close a jetty client
+https://stackoverflow.com/questions/26328323
+
+Selector Drawable programmatically
+https://stackoverflow.com/questions/24289907
+
+Selector Drawable programmatically
+https://stackoverflow.com/questions/24291483
+
+Elements getting added to original List even if the new element is aded to other reference of LIst
+https://stackoverflow.com/questions/48912372
+
+Check if every element of an array belongs to a set of values
+https://stackoverflow.com/questions/48892916
+
+Check if every element of an array belongs to a set of values
+https://stackoverflow.com/questions/48892886
+
+How To : Write a File with FileOutputStream?
+https://stackoverflow.com/questions/10043131
+
+ant 'unless' on a macrodef
+https://stackoverflow.com/questions/10079914
+
+ant 'unless' on a macrodef
+https://stackoverflow.com/questions/24743036
+
+Android - How to display a spinner with value but display a different one
+https://stackoverflow.com/questions/9995755
+
+Spring Boot Security - How to return HTTP 403 after successful authentication, but unsuccessful authorization?
+https://stackoverflow.com/questions/36428403
+
+Spring Security 4 Authentication Manager Required
+https://stackoverflow.com/questions/36334390
+
+BufferedImage : extract subimage with same data
+https://stackoverflow.com/questions/36475402
+
+Java: Trouble in computing the root of a given polynomial
+https://stackoverflow.com/questions/30154829
+
+How to configure fonts from Java code in Apache FOP?
+https://stackoverflow.com/questions/30560396
+
+NullPointerException In Send Https Request With jetty Http Client
+https://stackoverflow.com/questions/48225213
+
+Method in another Class not returning anything
+https://stackoverflow.com/questions/30004023
+
+Creating a Java Program that outputs a table of contents
+https://stackoverflow.com/questions/12539589
+
+Why is my binary to decimal program giving incorrect outputs?
+https://stackoverflow.com/questions/12452273
+
+Reading inputStream using BufferedReader.readLine() is too slow
+https://stackoverflow.com/questions/5595030
+
+How to iterate over json data with gson
+https://stackoverflow.com/questions/45449290
+
+Is Java Thread getId() thread-safe?
+https://stackoverflow.com/questions/45371927
+
+Observations with Round-ing in Android Studio - java. And some practical explanations expected
+https://stackoverflow.com/questions/56184544
+
+Is it possible to alter the behavior of toString() methods generated for Kotlin data classes?
+https://stackoverflow.com/questions/54552656
+
+How to remove duplicate key from a Hashmap
+https://stackoverflow.com/questions/54488133
+
+How to parse JSON array to a spinner
+https://stackoverflow.com/questions/56406824
+
+Split the project into two files
+https://stackoverflow.com/questions/29134930
+
+Java Index out of bound error matrix multiplication
+https://stackoverflow.com/questions/29198762
+
+Cities and colors java
+https://stackoverflow.com/questions/29000931
+
+Interrupting a thread 'gracefully' while inside the main loop
+https://stackoverflow.com/questions/29142852
+
+Copy files from one target folder to another in multimodule maven project
+https://stackoverflow.com/questions/53579191
+
+How to access ScrollBar in a ScrollPane? (JavaFX)
+https://stackoverflow.com/questions/28905006
+
+How to refer to enclosing anonymous class instance in Java?
+https://stackoverflow.com/questions/28784944
+
+How to read and write a file in java using buffered reader and bufferedwriter
+https://stackoverflow.com/questions/28426331
+
+Really confused between object and reference type
+https://stackoverflow.com/questions/16713030
+
+UsernameToken WS-Security with Apache CXF Annotations (WSS4J)
+https://stackoverflow.com/questions/18472824
+
+Parse Tree Expression to List of expressions in Java
+https://stackoverflow.com/questions/29793755
+
+Moving player on Array
+https://stackoverflow.com/questions/29854075
+
+Moving player on Array
+https://stackoverflow.com/questions/29854138
+
+Recursive string reverse syntax error
+https://stackoverflow.com/questions/29785976
+
+Spring @Bean method with parameters : how client of the method can know of them?
+https://stackoverflow.com/questions/29731412
+
+Why does this program using Collections.sort only fail for lists of size 32 or more?
+https://stackoverflow.com/questions/29866747
+
+Why does this program using Collections.sort only fail for lists of size 32 or more?
+https://stackoverflow.com/questions/29866762
+
+How make post in spring mvc
+https://stackoverflow.com/questions/29724606
+
+What events can com.google.gwt.user.client.ui.DeckPanel fire?
+https://stackoverflow.com/questions/7800813
+
+Hibernate mapping: OneToMany and OneToOne on child object property
+https://stackoverflow.com/questions/7647863
+
+Hibernate mapping: OneToMany and OneToOne on child object property
+https://stackoverflow.com/questions/7647664
+
+Setting Java Environment (Apache Tomcat) to encode UTF-8
+https://stackoverflow.com/questions/19402935
+
+How can I fill the rest of the space (NumberLoops)
+https://stackoverflow.com/questions/52789354
+
+Remove onSubmit() method
+https://stackoverflow.com/questions/52861833
+
+Junit for loop execution count
+https://stackoverflow.com/questions/51288146
+
+Junit for loop execution count
+https://stackoverflow.com/questions/51288586
+
+JPA @ManyToOne Two Tables
+https://stackoverflow.com/questions/51174897
+
+Adding ArrayList Objects to GridView in Android
+https://stackoverflow.com/questions/27475541
+
+TextureView: Perform TextureView.getBitmap() in Background
+https://stackoverflow.com/questions/25438882
+
+Spring + MyBatis exception: Mapped Statements collection does not contain value for
+https://stackoverflow.com/questions/25359116
+
+Spring + MyBatis exception: Mapped Statements collection does not contain value for
+https://stackoverflow.com/questions/25365221
+
+Why does readBoolean block but readObject doesn't?
+https://stackoverflow.com/questions/11705429
+
+Spring @RequestMapping not working as expected if there are extensions in URL
+https://stackoverflow.com/questions/20743425
+
+Spring @RequestMapping not working as expected if there are extensions in URL
+https://stackoverflow.com/questions/11658905
+
+Best Approach to validate a bean
+https://stackoverflow.com/questions/21777584
+
+Confused about the lambda expression
+https://stackoverflow.com/questions/30425904
+
+Java disable dpi-aware not working
+https://stackoverflow.com/questions/39372897
+
+Initializing array with values from constructor parameter - Impossible to initialize?
+https://stackoverflow.com/questions/9352362
+
+Initializing array with values from constructor parameter - Impossible to initialize?
+https://stackoverflow.com/questions/9352396
+
+Initializing array with values from constructor parameter - Impossible to initialize?
+https://stackoverflow.com/questions/9352643
+
+Initializing Hashtables in Java?
+https://stackoverflow.com/questions/17330975
+
+No experience since JDK 1.4. Am I still viable in the marketplace?
+https://stackoverflow.com/questions/633125
+
+`Monitor cpu usage per thread in java?
+https://stackoverflow.com/questions/28408974
+
+`Monitor cpu usage per thread in java?
+https://stackoverflow.com/questions/755940
+
+Search for file in directory with multiple directories
+https://stackoverflow.com/questions/1375766
+
+Search for file in directory with multiple directories
+https://stackoverflow.com/questions/44938444
+
+Issue with Rendering Math symbol in JEditorPane
+https://stackoverflow.com/questions/53419763
+
+Music doesn't play in application (javax.sound.sampled.Clip)
+https://stackoverflow.com/questions/14306002
+
+How to pass a type as a method parameter in Java
+https://stackoverflow.com/questions/2240712
+
+Java filter - conditionally change response body based on request
+https://stackoverflow.com/questions/41998441
+
+java progem to find distributional array of a word
+https://stackoverflow.com/questions/5043658
+
+Blackberry: Launch native browser from embeded browser
+https://stackoverflow.com/questions/5021103
+
+Enabling validation on your resources in Dropwizard
+https://stackoverflow.com/questions/26405932
+
+Get a array of class files inside a package in Java
+https://stackoverflow.com/questions/10994416
+
+Restrain page access to one user at the time
+https://stackoverflow.com/questions/13276713
+
+How do I rename a file when I'm uploading it with Android?
+https://stackoverflow.com/questions/23628658
+
+How do I do the equivalent of getClassLoader().getResources() in an Eclipse plugin?
+https://stackoverflow.com/questions/13421727
+
+Simple Java Calculator to Solve Expressions
+https://stackoverflow.com/questions/30363137
+
+Simple Java Calculator to Solve Expressions
+https://stackoverflow.com/questions/30363141
+
+Jetty and Dropwizard: how to return always 200 instead of 404, 500, etc
+https://stackoverflow.com/questions/40673780
+
+Java Login with SSO
+https://stackoverflow.com/questions/45778180
+
+Spring data Page.getTotalElements is incorrect on the last page
+https://stackoverflow.com/questions/45740910
+
+How to read a tab separated file and select few values from it using java
+https://stackoverflow.com/questions/45602152
+
+setText from AsyncTask in onPostExecute
+https://stackoverflow.com/questions/45567489
+
+Spring Boot Package to war: Tests fail
+https://stackoverflow.com/questions/37847785
+
+Why List View is not showing in the fragment?
+https://stackoverflow.com/questions/37812709
+
+Why List View is not showing in the fragment?
+https://stackoverflow.com/questions/37813235
+
+Is there a way to remove sublists from a list of lists in Java?
+https://stackoverflow.com/questions/37709887
+
+Is there a way to remove sublists from a list of lists in Java?
+https://stackoverflow.com/questions/37709723
+
+How do I upload multiple images to Firebase's realtime database?
+https://stackoverflow.com/questions/54175783
+
+Java GSON Custom Deserializer versioning support
+https://stackoverflow.com/questions/54026997
+
+Class A instantiates a Class B instance. How can the Instance of ClassB call a method of class A?
+https://stackoverflow.com/questions/54115535
+
+Class A instantiates a Class B instance. How can the Instance of ClassB call a method of class A?
+https://stackoverflow.com/questions/54115914
+
+Selenium Parallel Tests Queue Handling
+https://stackoverflow.com/questions/54131519
+
+Open file from network drive
+https://stackoverflow.com/questions/32971230
+
+How to keep a string input within a loop
+https://stackoverflow.com/questions/32982525
+
+How to keep a string input within a loop
+https://stackoverflow.com/questions/32982647
+
+Java how to know the type of object has been created
+https://stackoverflow.com/questions/26589124
+
+Subtracting from an Integer within a do-while loop
+https://stackoverflow.com/questions/35617288
+
+Java-Returning an Array from an Array Method to the Main Function
+https://stackoverflow.com/questions/35670892
+
+Java-Returning an Array from an Array Method to the Main Function
+https://stackoverflow.com/questions/35671111
+
+Error: java.lang.NoSuchMethodError: org/springframework/asm/ClassVisitor.<init>(I)V
+https://stackoverflow.com/questions/35746359
+
+NullPointerException when using Handler for updating progressBar
+https://stackoverflow.com/questions/35810711
+
+NullPointerException when using Handler for updating progressBar
+https://stackoverflow.com/questions/35810590
+
+Graph traversal - finding and returning the shortest distance
+https://stackoverflow.com/questions/45257889
+
+Word Count from a file
+https://stackoverflow.com/questions/18448769
+
+Word Count from a file
+https://stackoverflow.com/questions/18448552
+
+Additive Persistence Algorithm Java
+https://stackoverflow.com/questions/54847734
+
+Getting children of a node after fxml load
+https://stackoverflow.com/questions/54893915
+
+input.equals("string here") not working
+https://stackoverflow.com/questions/31291776
+
+remove xml node based on node number using java?
+https://stackoverflow.com/questions/27657654
+
+How to mention -profile in ant <javac> JDK8
+https://stackoverflow.com/questions/27641169
+
+What happens, if two interfaces contain the same default method?
+https://stackoverflow.com/questions/27649048
+
+Display application logs on jenkins console log
+https://stackoverflow.com/questions/42855853
+
+Android - Display loading bar when calling API with retrofit
+https://stackoverflow.com/questions/55788799
+
+Get Dynamically Loaded HTML After Scrolling To Bottom
+https://stackoverflow.com/questions/36702965
+
+Cross browser and test suite with testng
+https://stackoverflow.com/questions/36694027
+
+How can I sum multiple spinners?
+https://stackoverflow.com/questions/36617865
+
+EOFException in Spring REST
+https://stackoverflow.com/questions/40556825
+
+Moving an element at the same level of XML using Dom4J
+https://stackoverflow.com/questions/40743484
+
+Round java.util.Date to end of day
+https://stackoverflow.com/questions/36767611
+
+Browser#getText() returns empty string
+https://stackoverflow.com/questions/43394135
+
+Browser#getText() returns empty string
+https://stackoverflow.com/questions/43395073
+
+Spring JPA OneToOne FK as PK Cascade.Remove
+https://stackoverflow.com/questions/54436542
+
+iText digitally signing PDF without inputting PIN twice
+https://stackoverflow.com/questions/11617107
+
+Confusion in method overloading using abstract class in java
+https://stackoverflow.com/questions/11626583
+
+Java GUI for Tcl
+https://stackoverflow.com/questions/11429116
+
+Create ImageView programmatically without Layout
+https://stackoverflow.com/questions/20261829
+
+Create ImageView programmatically without Layout
+https://stackoverflow.com/questions/20262264
+
+progressbar not displaying in Relativelayout in webview
+https://stackoverflow.com/questions/50999888
+
+Parsing string based on different delimiters
+https://stackoverflow.com/questions/20110848
+
+Java Replace Line In Text File
+https://stackoverflow.com/questions/20040289
+
+Java Replace Line In Text File
+https://stackoverflow.com/questions/46936497
+
+Connection to oracle server for login.php
+https://stackoverflow.com/questions/51923854
+
+tapestry component for one to many mapping
+https://stackoverflow.com/questions/13469525
+
+java.sql.SQLException: - ORA-01000: maximum open cursors exceeded
+https://stackoverflow.com/questions/12293567
+
+java.sql.SQLException: - ORA-01000: maximum open cursors exceeded
+https://stackoverflow.com/questions/12246631
+
+java.sql.SQLException: - ORA-01000: maximum open cursors exceeded
+https://stackoverflow.com/questions/12245993
+
+Gamma Distribution in Apache beam
+https://stackoverflow.com/questions/50639926
+
+How to include a jsp inside another jsp using javascript
+https://stackoverflow.com/questions/16164064
+
+How to include a jsp inside another jsp using javascript
+https://stackoverflow.com/questions/16167874
+
+How to include a jsp inside another jsp using javascript
+https://stackoverflow.com/questions/16188071
+
+Why is my onResume being called twice?
+https://stackoverflow.com/questions/44549554
+
+How to alter allowed headers in Spring Boot
+https://stackoverflow.com/questions/40205152
+
+Java: Load data into variables from a .yaml file
+https://stackoverflow.com/questions/40214029
+
+How to disable loggers from class or a package which is from external jar
+https://stackoverflow.com/questions/25885125
+
+Encoding Hebrew Text for HTML e-mail body Error
+https://stackoverflow.com/questions/25888932
+
+Tomcat 7 Servlet spawning a thread
+https://stackoverflow.com/questions/25934792
+
+How to convert a do while loop to a while loop
+https://stackoverflow.com/questions/25858228
+
+How to get Session id after validating a user in Restful service?
+https://stackoverflow.com/questions/25886128
+
+Add Attachment to Jira via REST API
+https://stackoverflow.com/questions/30514523
+
+Add Attachment to Jira via REST API
+https://stackoverflow.com/questions/18656723
+
+Java split string at Uppercase and convert all to lowercase
+https://stackoverflow.com/questions/18723222
+
+Call flow of recursion
+https://stackoverflow.com/questions/18803269
+
+unable to draw on JFrame
+https://stackoverflow.com/questions/34134533
+
+Algorithm: how to check whether two set doesn't conflict
+https://stackoverflow.com/questions/34112269
+
+Fitlering words
+https://stackoverflow.com/questions/34089022
+
+Arcgis Map Current Location
+https://stackoverflow.com/questions/19708166
+
+JAX-RS 2.0 Filter parameters via @NameBinding annotation
+https://stackoverflow.com/questions/32820462
+
+Generic method to manage a map of collections
+https://stackoverflow.com/questions/9760258
+
+Zookeeper connection failing cp-rest-proxy with spotify kafka image
+https://stackoverflow.com/questions/53962805
+
+how to put a few data into array variable and post as JSONarray?
+https://stackoverflow.com/questions/53984273
+
+how to put a few data into array variable and post as JSONarray?
+https://stackoverflow.com/questions/53983733
+
+how to put a few data into array variable and post as JSONarray?
+https://stackoverflow.com/questions/53984262
+
+Close Java HTTP Client
+https://stackoverflow.com/questions/53920327
+
+How to replace "!= null" statement with method reference?
+https://stackoverflow.com/questions/53835371
+
+JVM is not get killed on OnOutOfMemoryError
+https://stackoverflow.com/questions/53911553
+
+Adding msgpack as content negotiation to spring mvc + boot
+https://stackoverflow.com/questions/36186005
+
+How to get access token using gmail api
+https://stackoverflow.com/questions/43654774
+
+How to get access token using gmail api
+https://stackoverflow.com/questions/36266696
+
+What is the best way to make an HTTP request from a Java program?
+https://stackoverflow.com/questions/51936725
+
+What is the best way to make an HTTP request from a Java program?
+https://stackoverflow.com/questions/51938895
+
+FileNotFoundException trying to send JSON to .NET webservice using HttpURLConnection
+https://stackoverflow.com/questions/20989764
+
+java/scala: Regex for skipping odd number of backslash while splitting a String?
+https://stackoverflow.com/questions/47082093
+
+java/scala: Regex for skipping odd number of backslash while splitting a String?
+https://stackoverflow.com/questions/46896703
+
+Search through ArrayList for same object and and merge the price value instead of adding
+https://stackoverflow.com/questions/47908005
+
+Search through ArrayList for same object and and merge the price value instead of adding
+https://stackoverflow.com/questions/47910844
+
+Skipping a gson field in parent class on selected execution
+https://stackoverflow.com/questions/49316661
+
+JDBC Exception: Operation not allowed after ResultSet closed
+https://stackoverflow.com/questions/10860856
+
+JDBC Exception: Operation not allowed after ResultSet closed
+https://stackoverflow.com/questions/10856614
+
+inerting timestamp into table
+https://stackoverflow.com/questions/9222637
+
+Convert PDF to HTML file Java API
+https://stackoverflow.com/questions/22906983
+
+Cannot compare String in Java and String from SQL Database
+https://stackoverflow.com/questions/43790818
+
+Cannot compare String in Java and String from SQL Database
+https://stackoverflow.com/questions/43791726
+
+maven-release-plugin and Arquillian
+https://stackoverflow.com/questions/40458829
+
+Resource allocation in choco solver
+https://stackoverflow.com/questions/52318548
+
+JPA trying to force me to have a property and database column named 'id'
+https://stackoverflow.com/questions/51372655
+
+Recusively count children nodes in binary tree
+https://stackoverflow.com/questions/30853080
+
+I have to remove duplicates from list (special condition)
+https://stackoverflow.com/questions/12874764
+
+Overloading code generators in Xtext
+https://stackoverflow.com/questions/12752943
+
+JFrame doesn't paint after receiving an event
+https://stackoverflow.com/questions/39574652
+
+ListView not loading, returns null object on textview.setText();
+https://stackoverflow.com/questions/33156299
+
+Convert ppt to png with apache poi
+https://stackoverflow.com/questions/46099084
+
+Java - Format Date
+https://stackoverflow.com/questions/19183646
+
+Java: Modifying variables without arguments
+https://stackoverflow.com/questions/7270218
+
+Java: Modifying variables without arguments
+https://stackoverflow.com/questions/7270208
+
+Java: Modifying variables without arguments
+https://stackoverflow.com/questions/7270209
+
+Is this dynamic dispatch?
+https://stackoverflow.com/questions/7133091
+
+Why doesn't this simple AES encryption work?
+https://stackoverflow.com/questions/7114769
+
+Modify an array passed as a method-parameter
+https://stackoverflow.com/questions/7129660
+
+How to select value from dropdown using java (selenium web driver)
+https://stackoverflow.com/questions/27315557
+
+Create multiple methods in one action class itself in Struts2?
+https://stackoverflow.com/questions/21282117
+
+ListView performance is too slow even though inside the AsyncTask
+https://stackoverflow.com/questions/21350849
+
+ListView performance is too slow even though inside the AsyncTask
+https://stackoverflow.com/questions/21350792
+
+how to append date in log file name , like log_12.12.2012.log?
+https://stackoverflow.com/questions/20541742
+
+JAVA ANDROID - get list files of a folder
+https://stackoverflow.com/questions/20458327
+
+JAVA ANDROID - get list files of a folder
+https://stackoverflow.com/questions/35085846
+
+The program 'jshell' is currently not installed when trying to run jshell on Ubuntu
+https://stackoverflow.com/questions/53867461
+
+Json Get Request using retrofit won't work
+https://stackoverflow.com/questions/50400858
+
+Removing JPanel from a JFrame
+https://stackoverflow.com/questions/10672255
+
+Setting BIRT datasource through its API
+https://stackoverflow.com/questions/10739518
+
+How do I gain access to the data source in Spring?
+https://stackoverflow.com/questions/959502
+
+EJB3 MessageDrivenBean throws exception This class is not trusted to be serialized as ObjectMessage payload when consuming an external ActiveMQ Queue
+https://stackoverflow.com/questions/54720019
+
+function to check if there are enough units in stock to meet request
+https://stackoverflow.com/questions/54683261
+
+Inversion of Control definition
+https://stackoverflow.com/questions/28096291
+
+OnComlete function is not calling after putfile in firebase storage
+https://stackoverflow.com/questions/50731500
+
+OnComlete function is not calling after putfile in firebase storage
+https://stackoverflow.com/questions/50731197
+
+how to find part of line java?
+https://stackoverflow.com/questions/4087098
+
+Regex required: It should match for following patterns
+https://stackoverflow.com/questions/3910923
+
+JavaFX date formatting within a TableView using legacy beans
+https://stackoverflow.com/questions/32330507
+
+Return the choice of a combobox javafx
+https://stackoverflow.com/questions/32335084
+
+Send Image in message body of email android
+https://stackoverflow.com/questions/32345084
+
+Send Image in message body of email android
+https://stackoverflow.com/questions/32344996
+
+Convert iterator code to Stream
+https://stackoverflow.com/questions/32407417
+
+Show items starting from specific row in android listview
+https://stackoverflow.com/questions/49963272
+
+Show items starting from specific row in android listview
+https://stackoverflow.com/questions/49961433
+
+Java FileFilter to select certain directories
+https://stackoverflow.com/questions/22324898
+
+Java FileFilter to select certain directories
+https://stackoverflow.com/questions/22303093
+
+How can I check some variable while code is holding on accepting new socket?
+https://stackoverflow.com/questions/6889059
+
+java multithread programming memory consistency problem
+https://stackoverflow.com/questions/6976536
+
+Java > int to double(Scanner>System.out)
+https://stackoverflow.com/questions/41676935
+
+sort array of characters in the order of occurrence within a string
+https://stackoverflow.com/questions/41692047
+
+sort array of characters in the order of occurrence within a string
+https://stackoverflow.com/questions/41690661
+
+Execute several line commands in a Java Programm
+https://stackoverflow.com/questions/29645797
+
+Draw a fence in Java using for loops
+https://stackoverflow.com/questions/29593320
+
+Draw a fence in Java using for loops
+https://stackoverflow.com/questions/29593360
+
+SelectOneMenu doesn't use the new Value
+https://stackoverflow.com/questions/8895860
+
+Convert a 2d array to a organizing table look
+https://stackoverflow.com/questions/8839643
+
+Convert a 2d array to a organizing table look
+https://stackoverflow.com/questions/8839721
+
+Java JTextPane + JScrollPane: de/activate automatic scrolling
+https://stackoverflow.com/questions/8789923
+
+Sampling with no replacement in Java from an ArrayList
+https://stackoverflow.com/questions/8964758
+
+Immutable vs Unmodifiable collection
+https://stackoverflow.com/questions/8893125
+
+Issue with downloading webpage in java?
+https://stackoverflow.com/questions/13754529
+
+Isn't "package private" member access synonymous with the default (no-modifier) access?
+https://stackoverflow.com/questions/5416102
+
+Isn't "package private" member access synonymous with the default (no-modifier) access?
+https://stackoverflow.com/questions/5416817
+
+Can anyone please suggest how to get the excel output for JSON data that I generated from url from POST call?
+https://stackoverflow.com/questions/33792140
+
+Creating a day schedule
+https://stackoverflow.com/questions/33831909
+
+JSON to Java Object deserialization
+https://stackoverflow.com/questions/33800402
+
+How to represent bi-directional edges in graph
+https://stackoverflow.com/questions/33870091
+
+System printing to a certain index of a linkedList
+https://stackoverflow.com/questions/33761659
+
+System printing to a certain index of a linkedList
+https://stackoverflow.com/questions/33761675
+
+Is it possible to create in Java 8 a unlimitedly growing in lazy way collection, defined by recursion?
+https://stackoverflow.com/questions/33827453
+
+Is it possible to create in Java 8 a unlimitedly growing in lazy way collection, defined by recursion?
+https://stackoverflow.com/questions/33828323
+
+I cannot figure out a way to move the balls
+https://stackoverflow.com/questions/55908673
+
+Activity Result on Activity and returning from fragment
+https://stackoverflow.com/questions/55893816
+
+How to testing method with different exceptions and results?
+https://stackoverflow.com/questions/55868297
+
+How can I serialize another object to an existing file?
+https://stackoverflow.com/questions/55497662
+
+Buffer & Modify OutputStream
+https://stackoverflow.com/questions/6489804
+
+Jackson JSON deserialization - synthetic list getter
+https://stackoverflow.com/questions/6600389
+
+Creating a mock HttpServletRequest out of a url string?
+https://stackoverflow.com/questions/20333132
+
+Creating a mock HttpServletRequest out of a url string?
+https://stackoverflow.com/questions/6455471
+
+How to implement DocumentFilter that inserts URLs as hyperlinks in JTextPane?
+https://stackoverflow.com/questions/13112418
+
+OneToMany Spring Data JDBC
+https://stackoverflow.com/questions/53377756
+
+Java - A 2D Array Multiplication Table with user input has too many rows and columns
+https://stackoverflow.com/questions/53424061
+
+Can't find five lowest values in an array...max works while min array is not assigned values
+https://stackoverflow.com/questions/26498489
+
+Can't find five lowest values in an array...max works while min array is not assigned values
+https://stackoverflow.com/questions/26496919
+
+JavaSparkStreaming | Exception thrown in awaitResult
+https://stackoverflow.com/questions/40417373
+
+I cannot calculate apparent wind speed. Have no Idea what's wrong. Formula is easy, but it doesn't happen to calculate it wright
+https://stackoverflow.com/questions/47537519
+
+How to print values from multiple for loops in Java
+https://stackoverflow.com/questions/49039731
+
+Designing a class in such a way that it doesn't become a "God object"
+https://stackoverflow.com/questions/2589759
+
+Arrays of different types
+https://stackoverflow.com/questions/2815682
+
+Arrays of different types
+https://stackoverflow.com/questions/2815698
+
+Arrays of different types
+https://stackoverflow.com/questions/2815677
+
+string literals as argument to methods
+https://stackoverflow.com/questions/11169675
+
+Java Swing JMenu Keeps Disappearing
+https://stackoverflow.com/questions/17101237
+
+Validation Error while deploying war file in Weblogic
+https://stackoverflow.com/questions/39845008
+
+Making if-else solution more efficient, less lines of code (Java)
+https://stackoverflow.com/questions/39928347
+
+Making if-else solution more efficient, less lines of code (Java)
+https://stackoverflow.com/questions/39928395
+
+Making if-else solution more efficient, less lines of code (Java)
+https://stackoverflow.com/questions/39928243
+
+Hibernate good practice, lazy/eager loading and saving/deleting children (help me Hibernate sensei)
+https://stackoverflow.com/questions/39872612
+
+Android Adding Buttons to Toolbar Programmatically
+https://stackoverflow.com/questions/44220431
+
+Portable Makefile for JNI applications
+https://stackoverflow.com/questions/44241395
+
+How to show user entered EditText value in a android dialogue box
+https://stackoverflow.com/questions/13916809
+
+using WordNet to perform stemming, io error: Too many open files
+https://stackoverflow.com/questions/28642585
+
+Why are interfaces helpful?
+https://stackoverflow.com/questions/44746091
+
+Why are interfaces helpful?
+https://stackoverflow.com/questions/28520187
+
+Two-Dimensional Loop OutOfBoundsException - Java
+https://stackoverflow.com/questions/41083459
+
+Access a private field from MainActivity Class to another Class
+https://stackoverflow.com/questions/44587715
+
+Flatten out a list in java
+https://stackoverflow.com/questions/30951101
+
+Flatten out a list in java
+https://stackoverflow.com/questions/30951184
+
+abstract class inside interface in java
+https://stackoverflow.com/questions/47872726
+
+Install a jar through maven in Netbeans fail to see the location of pom.mxl
+https://stackoverflow.com/questions/37390151
+
+When using Paging Library, observer showing list size as zero
+https://stackoverflow.com/questions/51477007
+
+When using Paging Library, observer showing list size as zero
+https://stackoverflow.com/questions/56132708
+
+When using Paging Library, observer showing list size as zero
+https://stackoverflow.com/questions/53707804
+
+Unable to resolve dependency error while integrating any liabrary in android studio 3.1.3
+https://stackoverflow.com/questions/51606581
+
+Unfortunately app has stopped working
+https://stackoverflow.com/questions/17987960
+
+Unfortunately app has stopped working
+https://stackoverflow.com/questions/17988014
+
+Changing rows and colums of CSV in java
+https://stackoverflow.com/questions/17869133
+
+Java. How to delete duplicate objects from both Lists
+https://stackoverflow.com/questions/18056497
+
+same method name but different class name
+https://stackoverflow.com/questions/17939338
+
+same method name but different class name
+https://stackoverflow.com/questions/17939621
+
+how java uses recursion to reverse a string
+https://stackoverflow.com/questions/24828374
+
+Non Executing Loop and Sub Array
+https://stackoverflow.com/questions/17795070
+
+Mock class in class under test
+https://stackoverflow.com/questions/17743304
+
+Regular Expression for First Name and Last Name in a single field
+https://stackoverflow.com/questions/39552563
+
+Regular Expression for First Name and Last Name in a single field
+https://stackoverflow.com/questions/39551833
+
+Removing duplicates from List which uses generics
+https://stackoverflow.com/questions/39478848
+
+Postgres JDBC connection in Eclipse Help
+https://stackoverflow.com/questions/214750
+
+Find Java classes implementing an interface
+https://stackoverflow.com/questions/10125367
+
+String[] not adding to list correctly
+https://stackoverflow.com/questions/42305869
+
+JAX-RS + EJB, SecurityContext inside ejb is null, on WildFly 10.1
+https://stackoverflow.com/questions/42113817
+
+The first button I create is overlapped by the second button
+https://stackoverflow.com/questions/42290639
+
+MediaRecorder.stop() failed: -1007 after restarting it
+https://stackoverflow.com/questions/55235754
+
+React-Native NativeModules - Is there an Android/Java callback pattern
+https://stackoverflow.com/questions/55030328
+
+How to pass POST variables to an AWS API Gateway running a lambda function?
+https://stackoverflow.com/questions/48757615
+
+java.sql.SQLSyntaxErrorException: ORA-00911: invalid character in oracle 11g
+https://stackoverflow.com/questions/48701679
+
+How can I sort variable values, and then print them in order, largest to smallest?
+https://stackoverflow.com/questions/18985735
+
+NumberPicker doesn't work with keyboard
+https://stackoverflow.com/questions/18987720
+
+NumberPicker doesn't work with keyboard
+https://stackoverflow.com/questions/22806988
+
+How do I upload a file using POST in angular?
+https://stackoverflow.com/questions/45177673
+
+Validating markup with StaX and DTD
+https://stackoverflow.com/questions/40854512
+
+How do I deal with excessive arguments in constructors?
+https://stackoverflow.com/questions/16901704
+
+StAX and DOM using XMLEventReader rather than XMLStreamReader
+https://stackoverflow.com/questions/49059804
+
+Detect file type (json, html, text) from a String object in Java
+https://stackoverflow.com/questions/55386097
+
+Dictionary of unknown size - find whether a word is in dictionary
+https://stackoverflow.com/questions/8237804
+
+For Loop error
+https://stackoverflow.com/questions/8309107
+
+android firebase stop ChildEventListener
+https://stackoverflow.com/questions/47105982
+
+build a scanner with stringtokenizer
+https://stackoverflow.com/questions/41204154
+
+Spring Boot and OAuth2 CORS
+https://stackoverflow.com/questions/41569640
+
+Error in removing duplicates in ArrayList
+https://stackoverflow.com/questions/22181230
+
+turn json format String into dataset spark using java
+https://stackoverflow.com/questions/46020765
+
+Java Code optimization : if else to resolve PMD complexity 24 to 0
+https://stackoverflow.com/questions/31801847
+
+Add line to XML using attribute as identifier
+https://stackoverflow.com/questions/31654078
+
+java String variables not setting
+https://stackoverflow.com/questions/10415297
+
+Images are not Showing in Gallery even after scanning using MediaScannerConnection sacn
+https://stackoverflow.com/questions/46737136
+
+Android Beacon - Issue with bind/unbind(this)
+https://stackoverflow.com/questions/44159585
+
+Couldnt call controller method , ajax call with spring mvc
+https://stackoverflow.com/questions/43979747
+
+Couldnt call controller method , ajax call with spring mvc
+https://stackoverflow.com/questions/43980980
+
+How to Replace timer with turn based onClick in Android?
+https://stackoverflow.com/questions/42977300
+
+Deserializing JSON array of objects using GSON
+https://stackoverflow.com/questions/42720165
+
+Why are my constructors recognized as methods?
+https://stackoverflow.com/questions/26811358
+
+Streaming Knapsack in Java
+https://stackoverflow.com/questions/14450307
+
+whether a string has digits or special characters and throw an exception
+https://stackoverflow.com/questions/14393671
+
+Array loop program logic
+https://stackoverflow.com/questions/14358259
+
+Array loop program logic
+https://stackoverflow.com/questions/14358250
+
+Custom Jackson serializer for a generic tree
+https://stackoverflow.com/questions/51570309
+
+Custom Jackson serializer for a generic tree
+https://stackoverflow.com/questions/51572160
+
+Render Geolocation coordinates into image using Java
+https://stackoverflow.com/questions/49810559
+
+KeyListener with focus not functioning
+https://stackoverflow.com/questions/49911959
+
+Adding an element in a sublist through a list iterator
+https://stackoverflow.com/questions/49728602
+
+With file I/O in Java, how do I only use a particular set of data within a text file with different data?
+https://stackoverflow.com/questions/49930976
+
+With file I/O in Java, how do I only use a particular set of data within a text file with different data?
+https://stackoverflow.com/questions/49931016
+
+With file I/O in Java, how do I only use a particular set of data within a text file with different data?
+https://stackoverflow.com/questions/49933367
+
+SpringBoot, how to access a map from another class?
+https://stackoverflow.com/questions/49947818
+
+Could not find class in Junit-4.11
+https://stackoverflow.com/questions/17397872
+
+Could not find class in Junit-4.11
+https://stackoverflow.com/questions/17397876
+
+How to read time from recorded surveillance camera video?
+https://stackoverflow.com/questions/4516084
+
+what is the actual use of interface in java?
+https://stackoverflow.com/questions/4436190
+
+what is the actual use of interface in java?
+https://stackoverflow.com/questions/4436183
+
+Connecting a controller to your application fxml
+https://stackoverflow.com/questions/48259216
+
+listview items error(style of multiple items is being changed)
+https://stackoverflow.com/questions/48147664
+
+Access View in CardView from main activity
+https://stackoverflow.com/questions/34564113
+
+How can angularjs ui-router controller read parameter from a java backend redirect?
+https://stackoverflow.com/questions/43537663
+
+How to use 'if' to condition and ignore a word in a particular sentence?
+https://stackoverflow.com/questions/43665161
+
+Ehcache Jgroups replication using TCP not working in AWS cloud with 2 node cluster
+https://stackoverflow.com/questions/46450405
+
+Android TextView with Marquee and layout_weight not scrolling
+https://stackoverflow.com/questions/46360272
+
+Android TextView with Marquee and layout_weight not scrolling
+https://stackoverflow.com/questions/46360187
+
+Find first n prime numbers and store in an array
+https://stackoverflow.com/questions/42420084
+
+Find first n prime numbers and store in an array
+https://stackoverflow.com/questions/42420008
+
+How to convert from string to date on android?
+https://stackoverflow.com/questions/42551981
+
+How to avoid duplicate in ArrayList?
+https://stackoverflow.com/questions/42548214
+
+Change the format of a number to readable in currency format?
+https://stackoverflow.com/questions/15852684
+
+Pipelining in Java
+https://stackoverflow.com/questions/15907741
+
+Java: print contents of text file to screen
+https://stackoverflow.com/questions/45713064
+
+Mocking spring IOC method injection's method
+https://stackoverflow.com/questions/39146922
+
+Start another timer in Countdown timer
+https://stackoverflow.com/questions/36023083
+
+What is the class path of any given source code?
+https://stackoverflow.com/questions/35959766
+
+moving elements in arraylist java
+https://stackoverflow.com/questions/36012285
+
+Selected row is not getting deleted; instead last row is getting deleted from JTable
+https://stackoverflow.com/questions/31597718
+
+What java design pattern is appropriate for the situation described below?
+https://stackoverflow.com/questions/31571276
+
+String matching program
+https://stackoverflow.com/questions/31579538
+
+How to declare a resource globally in Android
+https://stackoverflow.com/questions/20914440
+
+Java: Inheritance of generic Node and Tree
+https://stackoverflow.com/questions/23670424
+
+Need help to split string in java
+https://stackoverflow.com/questions/37104531
+
+Use camera in landscape when my app is in portrait
+https://stackoverflow.com/questions/32271355
+
+Want to double the size of the stack when it becomes full
+https://stackoverflow.com/questions/32151473
+
+Want to double the size of the stack when it becomes full
+https://stackoverflow.com/questions/32151561
+
+Hibernate query using if statement
+https://stackoverflow.com/questions/32277188
+
+Load light from configuration
+https://stackoverflow.com/questions/37471480
+
+Files.newDirectoryStream(path) does not return files recursively
+https://stackoverflow.com/questions/37474716
+
+How to Read Arabic text from .txt file in Android
+https://stackoverflow.com/questions/37546712
+
+Java: Modifying parameter passed as a Reference
+https://stackoverflow.com/questions/37505977
+
+Datepicker don't closes after picking same date GWT
+https://stackoverflow.com/questions/54665759
+
+Converting a string[] into a string then split into an array
+https://stackoverflow.com/questions/47331173
+
+Android and Json parsing
+https://stackoverflow.com/questions/34849914
+
+Android and Json parsing
+https://stackoverflow.com/questions/34849967
+
+BigDecimal Dividing with uneven decimals
+https://stackoverflow.com/questions/34661774
+
+How to verify PEM format certificate in Java
+https://stackoverflow.com/questions/6342399
+
+How to handle a change in interface subclasses?
+https://stackoverflow.com/questions/22642761
+
+How to handle a change in interface subclasses?
+https://stackoverflow.com/questions/22645411
+
+How to handle a change in interface subclasses?
+https://stackoverflow.com/questions/22642763
+
+Custom Comparator to sort list of states, counties and zip codes
+https://stackoverflow.com/questions/22726089
+
+How To Use Ajax in Spring Portlet?
+https://stackoverflow.com/questions/32026676
+
+How To Use Ajax in Spring Portlet?
+https://stackoverflow.com/questions/35568531
+
+Efficent updating entity in Hibernate
+https://stackoverflow.com/questions/32036409
+
+JPA Criteria with ElementCollection
+https://stackoverflow.com/questions/39988322
+
+HashSet is not sensitive to content of array?
+https://stackoverflow.com/questions/38406849
+
+HashSet is not sensitive to content of array?
+https://stackoverflow.com/questions/38407629
+
+Make button method if button clicked or not cliked
+https://stackoverflow.com/questions/35389081
+
+Make button method if button clicked or not cliked
+https://stackoverflow.com/questions/35489555
+
+Replace "<" and ">" with "&lt;" and "&gt;"
+https://stackoverflow.com/questions/15165053
+
+Java Schedule activities with Joda Time like Timer
+https://stackoverflow.com/questions/16581145
+
+Activiti User interface Spring App integration
+https://stackoverflow.com/questions/52382827
+
+Why are CAS not considered equivalent to busy-waiting loops?
+https://stackoverflow.com/questions/52338327
+
+Search for the longest repeating sequence of bytes
+https://stackoverflow.com/questions/52347775
+
+How to access variable from a different class
+https://stackoverflow.com/questions/19482469
+
+How to access variable from a different class
+https://stackoverflow.com/questions/19482168
+
+Send notification at a certain time
+https://stackoverflow.com/questions/45887218
+
+SQL query in java with single quote
+https://stackoverflow.com/questions/24265736
+
+SQL query in java with single quote
+https://stackoverflow.com/questions/24265777
+
+Interface OnClickListener cannot use my onClick Method?
+https://stackoverflow.com/questions/9966589
+
+Jqueryui - Datepicker - Date range offset
+https://stackoverflow.com/questions/10016324
+
+swing scrollpane setting to textpane
+https://stackoverflow.com/questions/30017001
+
+How can I use Jackson JSON annotations to suppress empty objects?
+https://stackoverflow.com/questions/30111732
+
+Springs SimpleJdbcInsert doesn't produce auto-generated keys as expected
+https://stackoverflow.com/questions/5483244
+
+javadoc subsets / java library organization
+https://stackoverflow.com/questions/5780200
+
+Add remove link to ListView - how to refer outer anonymous class from inner anonymous class
+https://stackoverflow.com/questions/5698004
+
+Tab all lines in a block
+https://stackoverflow.com/questions/54765885
+
+select records expiring within the next 30 days - sql statement
+https://stackoverflow.com/questions/54539613
+
+sort string date and sort it
+https://stackoverflow.com/questions/56394719
+
+i have created a custom class which can get date and time as strings i want to access the object and set data to the class any suggestions
+https://stackoverflow.com/questions/56316272
+
+Unit Testing Menu Items in Actionbar Overflow
+https://stackoverflow.com/questions/14969242
+
+creating a custom getColor(byte r, byte g, byte b) method
+https://stackoverflow.com/questions/15077686
+
+Centering a JFrame?
+https://stackoverflow.com/questions/29185995
+
+How to block existing async web requests?
+https://stackoverflow.com/questions/29285307
+
+How to block existing async web requests?
+https://stackoverflow.com/questions/29289573
+
+JFileChooser open multiple files in the order they are clicked
+https://stackoverflow.com/questions/29285037
+
+BigDecimal evaluated as a string in Velocity, Struts2
+https://stackoverflow.com/questions/1592687
+
+How to store audio input in an array from recorder?
+https://stackoverflow.com/questions/53665022
+
+Contact between the object image in andengine
+https://stackoverflow.com/questions/28792586
+
+How to use Java timer to abandon all tasks done in quick succession except last
+https://stackoverflow.com/questions/30786029
+
+Configuring multiple applications using Log4j to write simultaneously in same log file
+https://stackoverflow.com/questions/33204766
+
+ArrayList not printing as expected
+https://stackoverflow.com/questions/28429241
+
+Automatic increment array java
+https://stackoverflow.com/questions/28410092
+
+how to modify parent class variable with the child class and use in another child class in java
+https://stackoverflow.com/questions/16470012
+
+how to modify parent class variable with the child class and use in another child class in java
+https://stackoverflow.com/questions/48902571
+
+How to easily create Java bytecode dependent regression tests?
+https://stackoverflow.com/questions/16566480
+
+Iterator implementation for tree with 3 children in Java
+https://stackoverflow.com/questions/29899061
+
+Iterator implementation for tree with 3 children in Java
+https://stackoverflow.com/questions/29899333
+
+error in get response from api using retrofit to fetch it in recycleview
+https://stackoverflow.com/questions/52805896
+
+Word Search Using 2d arrays in java - getting past the second letter
+https://stackoverflow.com/questions/20038981
+
+Picture Addings
+https://stackoverflow.com/questions/15666293
+
+Need help-Method specific validation in struts 2
+https://stackoverflow.com/questions/15404366
+
+Passing returned variables to other static methods for calculations
+https://stackoverflow.com/questions/51111467
+
+Could not find method implementation() for arguments [directory 'libs'] on object
+https://stackoverflow.com/questions/51137080
+
+How do I turn off the "Visible only for test sources" feature in Eclipse Photon?
+https://stackoverflow.com/questions/51185899
+
+Place a whatsapp video call
+https://stackoverflow.com/questions/51070920
+
+Spring Boot with Spring Security behind Load Balancer: redirect HTTP to HTTPS
+https://stackoverflow.com/questions/51188677
+
+Multiple bouncing balls thread issue
+https://stackoverflow.com/questions/14593761
+
+Hashmap Syntax error on tokens in java
+https://stackoverflow.com/questions/14701097
+
+Hashmap Syntax error on tokens in java
+https://stackoverflow.com/questions/14701151
+
+Reading a textfile using InputStream
+https://stackoverflow.com/questions/14825459
+
+How to Access textarea from another class?
+https://stackoverflow.com/questions/27341961
+
+NullPointerException on ENTER-key press in JavaFX Application Thread
+https://stackoverflow.com/questions/27382130
+
+IntelliJ IDEA is unable to kill my Dropwizard Server
+https://stackoverflow.com/questions/27820156
+
+Jax-RS - Custom attribute to get header value
+https://stackoverflow.com/questions/27208640
+
+Jax-RS - Custom attribute to get header value
+https://stackoverflow.com/questions/27208616
+
+Jax-RS - Custom attribute to get header value
+https://stackoverflow.com/questions/27218604
+
+Java ActionListener code not generating "toggling" functional via JButton
+https://stackoverflow.com/questions/27255638
+
+Create a Folder Structure from User input
+https://stackoverflow.com/questions/27269148
+
+Java: remove all objects with iterator
+https://stackoverflow.com/questions/27061150
+
+Time calculation with negative value results Java
+https://stackoverflow.com/questions/25444178
+
+GWT PhoneGap RPC - status exception 0
+https://stackoverflow.com/questions/11831839
+
+Getting two unique values from two Java Collection objects
+https://stackoverflow.com/questions/11698379
+
+Finch obstacle sensors is not working in java
+https://stackoverflow.com/questions/23463618
+
+How to make app wait and then start activity or go back?
+https://stackoverflow.com/questions/23430944
+
+How to convert the following CSV file to the XML?please help me with either perl or java
+https://stackoverflow.com/questions/23457800
+
+How to convert the following CSV file to the XML?please help me with either perl or java
+https://stackoverflow.com/questions/23294518
+
+Identifying the child class calling a base class static function
+https://stackoverflow.com/questions/23296479
+
+Sending message from HTTP endpoint to JMS
+https://stackoverflow.com/questions/23315352
+
+How to access and parse XML file using Java and JavaScript
+https://stackoverflow.com/questions/21867362
+
+get usergroup of user in vbulletin using java and htmlunit
+https://stackoverflow.com/questions/21945548
+
+Why doesn't this fragment get the bundle?
+https://stackoverflow.com/questions/21956192
+
+Why doesn't this fragment get the bundle?
+https://stackoverflow.com/questions/21956272
+
+Typecasting Arraylist
+https://stackoverflow.com/questions/21820657
+
+How do I write the class that contains the main function for this code?
+https://stackoverflow.com/questions/21909780
+
+Inserting extra lines of code using Antlr4
+https://stackoverflow.com/questions/24043941
+
+Is there another way to display image from url?
+https://stackoverflow.com/questions/9446932
+
+array loses data when GUI is clicked
+https://stackoverflow.com/questions/9473125
+
+How to use an iterator in this case?
+https://stackoverflow.com/questions/3785352
+
+How to use an iterator in this case?
+https://stackoverflow.com/questions/3784629
+
+Which maven plugin do I use for AspectJ?
+https://stackoverflow.com/questions/3655314
+
+Which maven plugin do I use for AspectJ?
+https://stackoverflow.com/questions/3693219
+
+Which maven plugin do I use for AspectJ?
+https://stackoverflow.com/questions/3651753
+
+Is there any way to find out the number of objects that gets created?
+https://stackoverflow.com/questions/1207132
+
+Reading properties file from JAR directory
+https://stackoverflow.com/questions/28109502
+
+how to generify ArrayList
+https://stackoverflow.com/questions/24650814
+
+Android Java: Global variables through subclass; can't launch app?
+https://stackoverflow.com/questions/11954258
+
+Convert Byte String to alpha-numeric char array in java?
+https://stackoverflow.com/questions/12143167
+
+How to use TermVector Lucene 4.0
+https://stackoverflow.com/questions/11963832
+
+ISO2 country code from country name
+https://stackoverflow.com/questions/14155186
+
+ISO2 country code from country name
+https://stackoverflow.com/questions/53260163
+
+ISO2 country code from country name
+https://stackoverflow.com/questions/40805468
+
+How to populate Java (web) application with initial data using Spring/JPA/Hibernate
+https://stackoverflow.com/questions/35360678
+
+Change color of JButton without changing its shape
+https://stackoverflow.com/questions/41990748
+
+Java button inversion
+https://stackoverflow.com/questions/4995943
+
+Java console program and CTRL-C
+https://stackoverflow.com/questions/5124465
+
+Find files in a folder using Java
+https://stackoverflow.com/questions/52990815
+
+Find files in a folder using Java
+https://stackoverflow.com/questions/43017943
+
+Sorting intervals in java
+https://stackoverflow.com/questions/26159842
+
+Sorting intervals in java
+https://stackoverflow.com/questions/26159736
+
+Java try-throw-catch troubles
+https://stackoverflow.com/questions/8497570
+
+Java try-throw-catch troubles
+https://stackoverflow.com/questions/8497583
+
+Java try-throw-catch troubles
+https://stackoverflow.com/questions/8497646
+
+Static vs Instance for Global state variable
+https://stackoverflow.com/questions/8678532
+
+how to get drag/drop event on listitem of listbox in zk framework
+https://stackoverflow.com/questions/13512990
+
+AnnotationProcessor using multiple source-files to create one file
+https://stackoverflow.com/questions/31769563
+
+Additional Intents
+https://stackoverflow.com/questions/30248710
+
+Additional Intents
+https://stackoverflow.com/questions/30249184
+
+jackson java Unrecognized field not marked as ignorable
+https://stackoverflow.com/questions/53954247
+
+How to deploy maven web service on cloud?
+https://stackoverflow.com/questions/38869251
+
+IDEA prepends server args
+https://stackoverflow.com/questions/26612275
+
+java generics Bound mismatch: The type is not a valid substitute for the bounded parameter
+https://stackoverflow.com/questions/35718821
+
+How can I write a JUnit-Test for custom Jackson Serializer?
+https://stackoverflow.com/questions/35725754
+
+How can I write a JUnit-Test for custom Jackson Serializer?
+https://stackoverflow.com/questions/35726034
+
+How can I write a JUnit-Test for custom Jackson Serializer?
+https://stackoverflow.com/questions/35725731
+
+Can anybody please help me with this polymorphic reference variable explanation?
+https://stackoverflow.com/questions/18624678
+
+Transfering Base64 String over Http REST service with JSON response
+https://stackoverflow.com/questions/18438299
+
+Java 2D graphics - drawing a rectangle
+https://stackoverflow.com/questions/18538233
+
+HTTP Post Request over a Login Application
+https://stackoverflow.com/questions/54927716
+
+Setting hadoop.tmp.dir on Windows gives error: URI has an authority component
+https://stackoverflow.com/questions/31529830
+
+showing two View object by addView()
+https://stackoverflow.com/questions/31208260
+
+How to get a reference to the layout from within a custom TextView
+https://stackoverflow.com/questions/27707894
+
+proc/stat idle time decreasing
+https://stackoverflow.com/questions/29120927
+
+Not able to pass parameter from command line to maven project. I want to pass server url on which I can run my test
+https://stackoverflow.com/questions/27616222
+
+How to use a For loop to get user input in Java?
+https://stackoverflow.com/questions/27692112
+
+Stop/Start all method annotated with @Schedule in EJB 3.1
+https://stackoverflow.com/questions/42956587
+
+Showing Information on button click java web application
+https://stackoverflow.com/questions/42824598
+
+Spring test context best practice
+https://stackoverflow.com/questions/44937634
+
+Getting overlapping patterns using regex Java
+https://stackoverflow.com/questions/36524445
+
+Can't initialize static member in Singleton class in Java - Android
+https://stackoverflow.com/questions/36737328
+
+Can't initialize static member in Singleton class in Java - Android
+https://stackoverflow.com/questions/36736760
+
+Check whether all characters of second strings match at least once with characters present in first string
+https://stackoverflow.com/questions/40695032
+
+Guice - Bind generic class to instance at runtime based on defined InjectionPoints
+https://stackoverflow.com/questions/40918033
+
+Guice - Bind generic class to instance at runtime based on defined InjectionPoints
+https://stackoverflow.com/questions/40716912
+
+Mock System.class per method in Junit
+https://stackoverflow.com/questions/40679333
+
+Mock System.class per method in Junit
+https://stackoverflow.com/questions/40678987
+
+Android Studio Error: Can't create handler inside thread that has not called Looper.prepare()
+https://stackoverflow.com/questions/36829675
+
+Random alphabet character encryption for each character of a string
+https://stackoverflow.com/questions/36875827
+
+How Camera works in Libgdx and together with Viewport
+https://stackoverflow.com/questions/54198656
+
+Alternative to this code in Java
+https://stackoverflow.com/questions/20306845
+
+Programmatically set Keyboard.Key icon
+https://stackoverflow.com/questions/20306008
+
+Selenium Fill in all input fields at once Java
+https://stackoverflow.com/questions/51043242
+
+Android 6.0 File write permission denied
+https://stackoverflow.com/questions/33719818
+
+MongoRepository findByCreatedAtBetween not returning accurate results
+https://stackoverflow.com/questions/33495272
+
+Boolean won't change even if the condition is met
+https://stackoverflow.com/questions/19965485
+
+Java Comparator for comparing instances of a generic class
+https://stackoverflow.com/questions/20146564
+
+Java, trying to create a specific network byte header based on length of command
+https://stackoverflow.com/questions/51794864
+
+Java find the index of string based on the utf-8 encoding index
+https://stackoverflow.com/questions/51710383
+
+Does not write text file from text input
+https://stackoverflow.com/questions/12413691
+
+How to avoid hibernate default order by id?
+https://stackoverflow.com/questions/12234443
+
+Why my java ping method only work on my computer? (Windows machines tested)
+https://stackoverflow.com/questions/12316839
+
+How to check if part of a string equals another string in android
+https://stackoverflow.com/questions/12307390
+
+Why lst.add(2) for ArrayList<Long> gives compile error instead of calling add(Long) method?
+https://stackoverflow.com/questions/46562274
+
+Creating a Dice Roller in Java with an Array List. (Not and Array)
+https://stackoverflow.com/questions/46539917
+
+Creating a Dice Roller in Java with an Array List. (Not and Array)
+https://stackoverflow.com/questions/46540835
+
+How to run jol on Java 9?
+https://stackoverflow.com/questions/46896623
+
